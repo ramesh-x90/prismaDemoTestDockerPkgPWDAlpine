@@ -1,3 +1,3 @@
 npx prisma generate
-npm run start:dev
+npm start
 bin/sh
