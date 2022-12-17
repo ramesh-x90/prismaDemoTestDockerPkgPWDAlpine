@@ -1,0 +1,27 @@
+{
+  "name": "prismademotestdockerpkgpwdalpine",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ramesh-x90/prismaDemoTestDockerPkgPWDAlpine.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ramesh-x90/prismaDemoTestDockerPkgPWDAlpine/issues"
+  },
+  "homepage": "https://github.com/ramesh-x90/prismaDemoTestDockerPkgPWDAlpine#readme",
+  "devDependencies": {
+    "prisma": "^4.7.1"
+  },
+  "dependencies": {
+    "@prisma/client": "^4.7.1"
+  },
+  "type": "module"
+}
