@@ -23,5 +23,7 @@
   "dependencies": {
     "@prisma/client": "^4.7.1"
   },
-  "type": "module"
+  "engines": {
+    "node": ">=10.0.0 <17.0.0"
+  }
 }
