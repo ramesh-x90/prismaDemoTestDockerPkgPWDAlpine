@@ -1,4 +1,4 @@
-FROM node:alpine
+FROM node:18
 RUN apk add libssl1.1
 RUN npm install -g pkg
 WORKDIR /app
